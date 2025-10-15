@@ -2,6 +2,8 @@
 
 A comprehensive application project built with modern development practices.
 
+> **👋 New here?** Start with [START_HERE.md](START_HERE.md) for a guided tour of all available resources!
+
 ## 📋 Table of Contents
 
 - [About](#about)
